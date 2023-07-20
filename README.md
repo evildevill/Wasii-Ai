@@ -30,7 +30,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/evildevill/wasii-ai.git
+git clone https://github.com/evildevill/Wasii-Ai.git
 ```
 
 ### Install packages
