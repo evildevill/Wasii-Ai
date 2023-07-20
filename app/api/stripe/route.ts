@@ -43,10 +43,10 @@ export async function GET() {
           price_data: {
             currency: "USD",
             product_data: {
-              name: "Wasii AI Pro",
+              name: "Genius Pro",
               description: "Unlimited AI Generations"
             },
-            unit_amount: 25,
+            unit_amount: 25.99,
             recurring: {
               interval: "month"
             }

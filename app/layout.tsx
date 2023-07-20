@@ -11,7 +11,7 @@ import './globals.css'
 const font = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Wasii AI',
+  title: 'Wasii Ai',
   description: 'AI Platform',
 }
 
